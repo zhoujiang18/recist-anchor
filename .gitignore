@@ -1,0 +1,38 @@
+__pycache__/
+*.py[cod]
+*.so
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Data and outputs
+inputs/
+outputs/
+sanity/
+work_dir/
+data/
+datasets/
+PanCancerSeg_Test/
+*_outputs/
+*.nii
+*.nii.gz
+*.npz
+!experiments/*.json
+!experiments/*.csv
+
+# Docker archives and large generated files
+*.tar
+*.tar.gz
+*.log
+*.aux
+*.blg
+*.brf
+*.out
+*.toc
+
+# Local env
+.env
+.venv/
+venv/
+

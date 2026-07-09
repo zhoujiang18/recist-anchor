@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+*.pyo
+.git/
+work_dir/
+outputs/
+inputs/
+sanity/
+*.tar
+*.tar.gz
+weights_pre_metadata_clean.pth

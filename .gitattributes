@@ -1,0 +1,6 @@
+*.pth binary
+*.pdf binary
+*.png binary
+*.nii binary
+*.nii.gz binary
+

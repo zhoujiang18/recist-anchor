@@ -1,0 +1,12 @@
+{
+  "cases": 49,
+  "mean_dsc": 0.699204432422582,
+  "mean_nsd": 0.7471482053192893,
+  "median_dsc": 0.7491719694257382,
+  "median_nsd": 0.7715642170471891,
+  "min_dsc": 0.15586942001643417,
+  "min_nsd": 0.2787489275027282,
+  "outputs": "not_tracked/lite_ensam_actual_recist_outputs",
+  "metrics_csv": "experiments/lite_ensam_actual_recist_metrics.csv",
+  "note": "Lite ENSAM public checkpoint rerun on validation_public_npz using actual recist key; metrics use validation NPZ gts and spacing."
+}
