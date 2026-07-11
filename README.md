@@ -182,10 +182,6 @@ This local implementation produced zero voxel differences compared with full-vol
 - The public Lite ENSAM implementation/checkpoint is acknowledged as the starting point.
 - No private external dataset, private pretrained model, pseudo labels from previous FLARE winning algorithms, or algorithm distillation was used.
 
-## Paper
-
-The LLNCS paper source and compiled PDF are in `paper/`.
-
 ## Acknowledgements
 
 We thank the challenge organizers and data contributors for providing the Pan-cancer Segmentation benchmark. We also acknowledge the public Lite ENSAM repository/checkpoint as the starting point for this work.
