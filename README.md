@@ -4,7 +4,7 @@ This repository contains the reproducibility package for our Subtask 2 submissio
 
 The method starts from the public Lite ENSAM implementation/checkpoint and integrates it through supervised fine-tuning, validation-based checkpoint selection, and RECIST-anchored inference-time post-processing. The final inference code is packaged as a CPU-only Docker submission and preserves multi-label lesion outputs.
 
-![Overall framework](assets/overall_framework.png)
+![Overall framework](docs/RECIST_Anchored_3D_Lesion_Segmentation_EN.svg)
 
 ## Main Results
 
